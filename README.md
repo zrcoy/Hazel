@@ -1,2 +1,2 @@
 # Hazel
-Follow Hazel tutorial by cherno
+Following Hazel by cherno
